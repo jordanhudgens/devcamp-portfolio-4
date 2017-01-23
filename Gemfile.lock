@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/TinCanDan/worthen_view_tool
+  revision: 07f05bd366f3f856bf0ef359ced31e0d35377ba0
+  specs:
+    worthen_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -191,6 +197,7 @@ DEPENDENCIES
   tzinfo-data
   uglifier (>= 1.3.0)
   web-console (>= 3.3.0)
+  worthen_view_tool!
 
 BUNDLED WITH
    1.13.7
