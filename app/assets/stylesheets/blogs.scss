@@ -189,3 +189,15 @@ h6, .h6 {
 .comment-name {
   font-weight: 700;
 }
+.btn-green {
+  background-color: green;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  &:hover, &:visited, &:active, &:focus {
+    background-color: green;
+    text-decoration: none;
+    outline: none;
+    border: none;
+  }
+}
